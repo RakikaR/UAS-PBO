@@ -1,6 +1,5 @@
 class KalkulatorGizi {
     private Pengguna person;
-
     public KalkulatorGizi(Pengguna person) {
         this.person = person;
     }
